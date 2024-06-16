@@ -32,4 +32,4 @@ Operating System Support: Docker and VS Code are cross-platform, so you can use 
 
 To start the Golang Web Application from this project run --> go run main.go
 
-Once the app is started verify accesing the app from the browser localhost:8080
+Once the app is started verify accesing the app from the browser using http://localhost:8080
